@@ -6,4 +6,5 @@ def add(x,y):
 #my patner has to initiate:
 #to multiply
 def multi(x,y):
-  return none
+  #in web modification
+  return x*y
