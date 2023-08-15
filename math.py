@@ -2,7 +2,9 @@
 #to add:
 def add(x,y):
   #initiated addtion fn
-  return x+y
+  if type(x) ==  int() and typ(y) == int()
+    return x+y
+  return None
 
 #my patner has to initiate:
 #to multiply
