@@ -1,7 +1,8 @@
 # ive to initiate:
 #to add:
 def add(x,y):
-  return none
+  #initiated addtion fn
+  return x+y
 
 #my patner has to initiate:
 #to multiply
